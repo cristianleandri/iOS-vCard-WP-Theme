@@ -28,7 +28,7 @@
     <div id="wrapper-cell">
         <article id="content">
             <header>
-                <img class="avatar" src="http://www.gravatar.com/avatar/<?php echo md5('dries.vints@gmail.com'); ?>?s=95" alt="">
+                <img class="avatar" src="http://www.gravatar.com/avatar/<?php echo md5('dries.vints@gmail.com'); ?>?s=85" alt="">
                 <h1>Dries Vints</h1>
                 <h2>Web &amp; Software Developer</h2>
             </header>
