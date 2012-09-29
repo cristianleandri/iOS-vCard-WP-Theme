@@ -17,6 +17,10 @@
 
     <!-- CSS Styles -->
     <link rel="stylesheet" href="style.css">
+
+    <!-- Typekit -->
+    <script type="text/javascript" src="//use.typekit.net/jcf6bud.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
     
