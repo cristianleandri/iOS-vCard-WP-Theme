@@ -127,16 +127,21 @@ strong {
  */
 
 #content {
+	padding: 3%;
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+#vcard {
 	background-color: #eee;
 	border-radius: 10px;
 	box-shadow: 0 1px 15px rgba(0,0,0,0.5);
 	color: #333;
-	margin: 0 auto;
+	margin-bottom: 25px;
 	padding: 25px;
-	width: 450px;
 }
 
-#content header {
+#vcard header {
 	margin-bottom: 15px;
 }
 
@@ -146,11 +151,23 @@ strong {
 	margin-right: 20px;
 }
 
-
-
-
-
-
-
+ul#apps {
+	margin-bottom: 25px;
+	padding: 0 0;
+}
+ul#apps li {
+	float: left;
+	display: block;
+	text-align: center;
+	margin-bottom: 10px;
+	padding: 0;
+	width: 20%;
+	word-wrap: break-word;
+}
+ul#apps li h3 {
+	font-size: .8em;
+	font-weight: bold;
+	text-shadow: 0 2px 3px rgba(0,0,0,0.9);
+}
 
 

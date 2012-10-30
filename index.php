@@ -26,18 +26,29 @@
     
 <div id="wrapper">
     <div id="wrapper-cell">
-        <article id="content">
-            <header>
-                <img class="avatar" src="http://www.gravatar.com/avatar/<?php echo md5('dries.vints@gmail.com'); ?>?s=85" alt="">
-                <h1>Dries Vints</h1>
-                <h2>Web &amp; Software Developer</h2>
-            </header>
+        <div id="content">
+            <article id="vcard">
+                <header>
+                    <img class="avatar" src="http://www.gravatar.com/avatar/<?php echo md5('dries.vints@gmail.com'); ?>?s=85" alt="">
+                    <h1>Dries Vints</h1>
+                    <h2>Web &amp; Software Developer</h2>
+                </header>
+                <div class="clear"></div>
+                <p>
+                    I&rsquo;m a <strong>web developer</strong> working at <a href="http://www.volta.be">Volta Web</a> in Antwerp. I&rsquo;m working mostly on <strong>CMS</strong> and <strong>web applications</strong>.<br>
+                    I also recently started working with <strong>iOS</strong>. Check out <strong>@</strong><a href="http://twitter.com/camoapp">CaMoapp</a>, a <a href="http://www.campaignmonitor.com">Campaign Monitor</a> client that I’m building.
+                </p>
+            </article>
+
+            <ul id="apps">
+                <li>
+                    <a href="http://twitter.com/driesvints"><img src="img/icon-twitter.png" alt="@driesvints"></a>
+                    <h3>@driesvints</h3>
+                </li>
+            </ul>
+
             <div class="clear"></div>
-            <p>
-                I&rsquo;m a <strong>web developer</strong> working at <a href="http://www.volta.be">Volta Web</a> in Antwerp. I&rsquo;m working mostly on <strong>CMS</strong> and <strong>web applications</strong>.<br>
-                I also recently started working with <strong>iOS</strong>. Check out <strong>@</strong><a href="http://twitter.com/camoapp">CaMoapp</a>, a <a href="http://www.campaignmonitor.com">Campaign Monitor</a> client that I’m building.
-            </p>
-        </article>
+        </div>
     </div>
 </div>
 
