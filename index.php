@@ -10,7 +10,7 @@
 
     <!-- Info -->
     <title>Dries Vints</title>
-    <meta name="description" content="I'm a web developer working at Volta Web in Antwerp. I'm working mostly on CMS systems and developing web applications. I also recently started working with iOS. Check out CaMo App, a Campaign Monitor client that I’m building.">
+    <meta name="description" content="I'm a web developer working at Volta Web in Antwerp. I'm working mostly on CMS and developing web applications. I also recently started working with iOS. Check out CaMo App, a Campaign Monitor client that I’m building.">
     
     <!-- Viewport Fix -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
