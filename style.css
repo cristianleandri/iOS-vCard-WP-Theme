@@ -152,7 +152,7 @@ strong {
 .avatar {
 	border: 4px solid #ccc;
 	float: left;
-	margin-right: 20px;
+	margin: 0 20px 15px 0;
 }
 
 ul#apps {
@@ -174,4 +174,38 @@ ul#apps li h3 {
 	text-shadow: 0 2px 3px rgba(0,0,0,0.9);
 }
 
+/**
+ * Media Queries
+ */
 
+@media all and (max-width: 500px) {
+	h1 {
+		font-size: 2.2em;
+		line-height: 1.5em;
+	}
+
+	h2 {
+		font-size: 1.4em;
+		line-height: 1.5em;
+	}
+
+	#vcard {
+		padding: 15px;
+	}
+
+	ul#apps li {
+		width: 25%;
+	}
+}
+
+@media all and (max-width: 440px) {
+	h1 {
+		font-size: 1.6em;
+		line-height: 1.7em;
+	}
+
+	h2 {
+		font-size: 1.2em;
+		line-height: 1.2em;
+	}
+}
