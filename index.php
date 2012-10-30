@@ -18,6 +18,9 @@
     <!-- CSS Styles -->
     <link rel="stylesheet" href="style.css">
 
+    <!-- Javascript -->
+    <script type="text/javascript" src="retina.js"></script>
+
     <!-- Typekit -->
     <script type="text/javascript" src="//use.typekit.net/jcf6bud.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
