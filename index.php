@@ -35,7 +35,9 @@
                 </header>
                 <div class="clear"></div>
                 <p>
-                    I&rsquo;m a <strong>web developer</strong> working at <a href="http://www.volta.be">Volta Web</a> in Antwerp. I&rsquo;m working mostly on <strong>CMS</strong> and <strong>web applications</strong>.<br>
+                    I&rsquo;m a <strong>web developer</strong> working at <a href="http://www.volta.be">Volta Web</a> in Antwerp. I&rsquo;m working mostly on <strong>CMS</strong> and <strong>web applications</strong>.
+                </p>
+                <p>
                     I also recently started working with <strong>iOS</strong>. Check out <strong>@</strong><a href="http://twitter.com/camoapp">CaMoapp</a>, a <a href="http://www.campaignmonitor.com">Campaign Monitor</a> client that I’m building.
                 </p>
             </article>
