@@ -42,7 +42,7 @@
 
             <ul id="apps">
                 <li>
-                    <a href="http://twitter.com/driesvints"><img src="img/icon-twitter.png" alt="@driesvints"></a>
+                    <a href="http://twitter.com/driesvints"><img src="img/icon-twitter.png" alt="@driesvints" width="66" height="66"></a>
                     <h3>@driesvints</h3>
                 </li>
             </ul>
