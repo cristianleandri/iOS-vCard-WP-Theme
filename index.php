@@ -10,7 +10,7 @@
 
     <!-- Info -->
     <title>Dries Vints</title>
-    <meta name="description" content="I'm a web developer working at Volta Web in Antwerp. I'm working mostly on CMS and developing web applications. I also recently started working with iOS. Check out CaMo App, a Campaign Monitor client that I’m building.">
+    <meta name="description" content="I'm a web developer at Volta Web in Antwerp working mostly on Content Management Systems and web applications. I also recently started working with iOS. Check out CaMo App, a Campaign Monitor client that I'm building.">
     
     <!-- Viewport Fix -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -35,10 +35,10 @@
                 </header>
                 <div class="clear"></div>
                 <p>
-                    I&rsquo;m a <strong>web developer</strong> working at <a href="http://www.volta.be">Volta Web</a> in Antwerp. I&rsquo;m working mostly on <strong>CMS</strong> and <strong>web applications</strong>.
+                    I&rsquo;m a <strong>web developer</strong> at <a href="http://www.volta.be">Volta Web</a> working mostly on <strong>Content Management Systems</strong> and <strong>web applications</strong>.
                 </p>
                 <p>
-                    I also recently started working with <strong>iOS</strong>. Check out <strong>@</strong><a href="http://twitter.com/camoapp">CaMoapp</a>, a <a href="http://www.campaignmonitor.com">Campaign Monitor</a> client that I’m building.
+                    I also recently started working with <strong>iOS</strong>. Check out <strong>@</strong><a href="http://twitter.com/camoapp">CaMoApp</a>, a <a href="http://www.campaignmonitor.com">Campaign Monitor</a> client that I&rsquo;m building.
                 </p>
             </article>
 
