@@ -66,7 +66,7 @@ table {
  }
 
  body {
- 	background: #555;
+ 	background: #999 url('bg.png') repeat;
  	color: white;
  	font-family: "proxima-nova", Helvetica, Arial, sans-serif;
  	font-size: 1em;
