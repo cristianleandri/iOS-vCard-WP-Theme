@@ -61,17 +61,17 @@ table {
  * Standard elements and classes 
  */
 
- html, body {
- 	height: 100%;
- }
+html, body {
+	height: 100%;
+}
 
- body {
- 	background: #999 url('bg.png') repeat;
- 	color: white;
- 	font-family: "proxima-nova", Helvetica, Arial, sans-serif;
- 	font-size: 1em;
+body {
+	background: #999 url('bg.png') repeat;
+	color: white;
+	font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+	font-size: 1em;
 	line-height: 1.5em;
- }
+}
 
 h1 {
 	font-size: 2.5em;
