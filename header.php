@@ -18,9 +18,6 @@
     <!-- CSS Styles -->
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" />
 
-    <!-- Javascript -->
-    <script type="text/javascript" src="<?php bloginfo('template_url') ?>/js/retina.js"></script>
-
     <!-- Typekit -->
     <script type="text/javascript" src="//use.typekit.net/jcf6bud.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
