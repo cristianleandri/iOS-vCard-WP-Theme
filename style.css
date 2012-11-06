@@ -128,8 +128,10 @@ strong {
 
 #wrapper-cell {
 	display: table-cell;
-	padding-top: 28px;
 	vertical-align: middle;
+}
+body.admin-bar #wrapper-cell {
+	padding-top: 28px;
 }
 
 /**
