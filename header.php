@@ -31,6 +31,12 @@
     ?>
 
     <?php wp_head(); ?>
+
+    <!-- Workaround for Wordpress adminbar. -->
+    <style>
+        html { margin-top: 0 !important; }
+        * html body { margin-top: 0 !important; }
+    </style>
 </head>
 <body <?php body_class(); ?>>
     
